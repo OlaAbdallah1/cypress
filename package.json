@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cypress": "^9.7.0"
+  },
+  "name": "cypress-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
